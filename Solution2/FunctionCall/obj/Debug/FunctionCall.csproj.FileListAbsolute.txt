@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\bin\Debug\FunctionCall.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\bin\Debug\FunctionCall.exe
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\bin\Debug\FunctionCall.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\obj\Debug\FunctionCall.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\obj\Debug\FunctionCall.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\obj\Debug\FunctionCall.exe
+E:\Study\Workplaces\.NET_Workspace\Solution2\FunctionCall\obj\Debug\FunctionCall.pdb
