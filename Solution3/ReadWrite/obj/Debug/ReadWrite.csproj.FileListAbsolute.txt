@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\obj\Debug\ReadWrite.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\obj\Debug\ReadWrite.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\bin\Debug\ReadWrite.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\bin\Debug\ReadWrite.exe
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\bin\Debug\ReadWrite.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\obj\Debug\ReadWrite.exe
+E:\Study\Workplaces\.NET_Workspace\Solution3\ReadWrite\obj\Debug\ReadWrite.pdb
