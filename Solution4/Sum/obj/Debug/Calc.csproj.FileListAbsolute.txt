@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\bin\Debug\Sum.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\bin\Debug\Sum.exe
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\bin\Debug\Sum.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\obj\Debug\Calc.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\obj\Debug\Sum.exe
+E:\Study\Workplaces\.NET_Workspace\Solution4\Sum\obj\Debug\Sum.pdb
