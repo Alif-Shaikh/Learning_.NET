@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\bin\Debug\ControlStructures.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\bin\Debug\ControlStructures.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\bin\Debug\ControlStructures.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\obj\Debug\ControlStructures.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\obj\Debug\ControlStructures.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\obj\Debug\ControlStructures.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\ControlStructures\obj\Debug\ControlStructures.pdb

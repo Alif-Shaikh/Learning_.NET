@@ -19,12 +19,21 @@ namespace Calc
         {
 
             int a, b;
-            Console.WriteLine("Enter Two Numbers");
-            a = Convert.ToInt32(Console.ReadLine());
-            b = Convert.ToInt32(Console.ReadLine());
+             Console.WriteLine("Enter Two Numbers");
+             a = Convert.ToInt32(Console.ReadLine());
+             b = Convert.ToInt32(Console.ReadLine());
 
-            Program s = new Program();
-            s.Add(a, b);
+             Program s = new Program();
+             s.Add(a, b);   
+
+
+            //Area of circle
+          /* double rad, area;
+            Console.WriteLine("Enter radius");
+            rad = Convert.ToDouble(Console.ReadLine());
+         
+            area=Math.PI * Math.Pow(rad,2);
+            Console.WriteLine("Area of circle {0} ",area); */ 
         }
     
     }

@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\bin\Debug\MaxNum.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\bin\Debug\MaxNum.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\bin\Debug\MaxNum.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\obj\Debug\MaxNum.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\obj\Debug\MaxNum.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\obj\Debug\MaxNum.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\MaxNum\obj\Debug\MaxNum.pdb
