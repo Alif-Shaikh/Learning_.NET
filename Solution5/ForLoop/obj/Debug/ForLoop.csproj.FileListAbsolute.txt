@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\bin\Debug\ForLoop.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\bin\Debug\ForLoop.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\bin\Debug\ForLoop.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\obj\Debug\ForLoop.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\ForLoop\obj\Debug\ForLoop.pdb
