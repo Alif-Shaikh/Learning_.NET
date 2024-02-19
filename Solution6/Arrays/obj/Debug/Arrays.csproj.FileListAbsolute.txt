@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\bin\Debug\Arrays.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\bin\Debug\Arrays.exe
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\bin\Debug\Arrays.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\obj\Debug\Arrays.exe
+E:\Study\Workplaces\.NET_Workspace\Solution6\Arrays\obj\Debug\Arrays.pdb
