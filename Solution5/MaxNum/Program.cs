@@ -8,8 +8,9 @@ namespace MaxNum
 {
     internal class Program
     {
-        public void Max(int a, int b, int c)
+        public void max(int a, int b, int c)
         {
+            Console.WriteLine("max num");
             int m = a;
             if(m<b)
             {
@@ -19,7 +20,7 @@ namespace MaxNum
             {
                 m = c;
             }
-                Console.WriteLine("{0} is max of all",m);
+                Console.WriteLine("{0} is max of all",m);  
                
             
 
@@ -33,7 +34,7 @@ namespace MaxNum
             c = Convert.ToInt32(Console.ReadLine());
 
             Program p = new Program();
-            p.Max(a, b, c);
+            p.max(a, b, c);
         }
     }
 }

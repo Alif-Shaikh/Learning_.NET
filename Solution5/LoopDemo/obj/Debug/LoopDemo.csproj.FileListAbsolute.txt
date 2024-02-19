@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\bin\Debug\LoopDemo.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\bin\Debug\LoopDemo.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\bin\Debug\LoopDemo.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\obj\Debug\LoopDemo.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\obj\Debug\LoopDemo.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\obj\Debug\LoopDemo.exe
+E:\Study\Workplaces\.NET_Workspace\Solution5\LoopDemo\obj\Debug\LoopDemo.pdb
