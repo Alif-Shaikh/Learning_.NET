@@ -11,10 +11,14 @@ namespace Arrays
     {
         public static void PrintingArray(int n, int[] a)
         {
-            for (int i = 0; i < n; i++)
+           /* for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(a[i]);
 
+            }*/
+           foreach (int i in a)
+            {
+                Console.WriteLine(i);
             }
         }
         static void Main(string[] args) {

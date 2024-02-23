@@ -1,0 +1,8 @@
+Adding new solution snd project
+file=>add=>new project=>blank solution=>right click=>add new project=>select req. conf=>right click=>add=>new item=add .cs file
+------------------------------------------------------------------
+when u  have accidently deleted solution file
+open cmd
+dotnet new sln --name "demo"
+=>open solution in visual studio => right click => add existing projects => add .cs files from your file explorer
+=> then rebuild the solution

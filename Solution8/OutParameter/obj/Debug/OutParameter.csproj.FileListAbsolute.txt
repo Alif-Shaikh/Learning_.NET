@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\obj\Debug\OutParameter.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\obj\Debug\OutParameter.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\bin\Debug\OutParameter.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\bin\Debug\OutParameter.exe
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\bin\Debug\OutParameter.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\obj\Debug\OutParameter.exe
+E:\Study\Workplaces\.NET_Workspace\Solution8\OutParameter\obj\Debug\OutParameter.pdb

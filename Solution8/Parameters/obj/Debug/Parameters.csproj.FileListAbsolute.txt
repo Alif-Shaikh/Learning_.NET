@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\bin\Debug\Parameters.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\bin\Debug\Parameters.exe
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\bin\Debug\Parameters.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\obj\Debug\Parameters.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\obj\Debug\Parameters.exe
+E:\Study\Workplaces\.NET_Workspace\Solution8\Parameters\obj\Debug\Parameters.pdb

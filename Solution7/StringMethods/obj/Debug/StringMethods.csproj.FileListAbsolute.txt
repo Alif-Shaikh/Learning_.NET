@@ -1,0 +1,7 @@
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\bin\Debug\StringMethods.exe.config
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\bin\Debug\StringMethods.exe
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\bin\Debug\StringMethods.pdb
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\obj\Debug\StringMethods.exe
+E:\Study\Workplaces\.NET_Workspace\Solution7\StringMethods\obj\Debug\StringMethods.pdb
